@@ -4,7 +4,6 @@ Many things are learned by comparison... Therefore, with this project you will b
 # Note
 To run this program write it in console
 ```
-
 pip install -r requirements.txt 
 ```
 
